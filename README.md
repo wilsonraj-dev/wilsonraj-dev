@@ -3,7 +3,6 @@
 - 🔭 I'm currently working with C#, SAP and SAP HANA.
 - 🌱 I'm studying C#, React JS and wanting to relocate with Flutter.
 - 🌍 Seeking more and more knowledge for growth in the area. 
-- 📫 Contact me whit Linkedin: (https://www.linkedin.com/in/wilsonjuniordev/)
 <br>
 
 <div>
