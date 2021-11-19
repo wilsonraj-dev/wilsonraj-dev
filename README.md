@@ -1,7 +1,7 @@
  ### Hello everyone. I'm Wilson Junior. 
 
 - 🔭 I'm currently working with C#, SAP and SAP HANA.
-- 🌱 I'm studying C#, React JS and wanting to relocate with Flutter.
+- 🌱 I'm studying C# and wanting to relocate with Flutter.
 - 🌍 Seeking more and more knowledge for growth in the area. 
 <br>
 
