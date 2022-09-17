@@ -3,8 +3,8 @@
 <div>
   <a href="https://https://github.com/wilsonraj-dev">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="left" height="180em" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonraj-dev&layout=compact&theme=radical&hide_border=enabled" />
-    <img height="180em" align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=wilsonraj-dev&show_icons=true&theme=radical"/>
+    <img align="left" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonraj-dev&layout=compact&theme=radical&hide_border=enabled" />
+    <img height="180em" align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=wilsonraj-dev&show_icons=true&theme=radical"/>
   </a>
 </div>
   
